@@ -1,0 +1,13 @@
+theme = "dracula"
+
+[editor]
+line-number = "relative"
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+[keys.normal]
+y = ":clipboard-yank"
+p = ":clipboard-paste-after"
+P = ":clipboard-paste-before"
