@@ -1,9 +1,0 @@
-2025/08/18-19:22:01.082 1a8d Reusing MANIFEST /home/alex/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2025/08/18-19:22:01.085 1a8d Recovering log #354
-2025/08/18-19:22:01.085 1a8d Reusing old log /home/alex/.config/discord/Local Storage/leveldb/000354.log 
-2025/08/18-19:26:06.983 1a8e Level-0 table #357: started
-2025/08/18-19:26:06.996 1a8e Level-0 table #357: 1557372 bytes OK
-2025/08/18-19:26:06.998 1a8e Delete type=0 #354
-2025/08/18-20:02:01.770 1a8d Level-0 table #359: started
-2025/08/18-20:02:01.772 1a8d Level-0 table #359: 30969 bytes OK
-2025/08/18-20:02:01.775 1a8d Delete type=0 #356
