@@ -52,8 +52,6 @@ linux-headers
 lldb
 luarocks
 ly
-mariadb
-mariadb-libs
 mesa-utils
 nano
 nautilus
@@ -63,14 +61,9 @@ networkmanager
 networkmanager-openvpn
 npm
 ntfs-3g
-nvidia
-nvidia-settings
-nvidia-utils
-obs-studio
 os-prober
 pavucontrol
 polkit-kde-agent
-pulseaudio
 python-gdal
 python-owslib
 python-pip
@@ -94,12 +87,7 @@ ttf-dejavu
 ttf-hack-nerd
 ttf-jetbrains-mono
 unzip
-usbmuxd
-v4l2loopback-dc-dkms
-v4l2loopback-dkms-git
 vim
-virt-manager
-virtio-win
 visual-studio-code-bin
 waybar
 wev
